@@ -1,0 +1,27 @@
+.div-button-estoque {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  width: auto; 
+  height: auto; 
+  margin-top: 100px; 
+  margin-left: 60px; 
+  padding: 0; 
+}
+
+.button-estoque {
+  width: 181px;
+  height: 60px;
+  padding: 16px 24px 14px 24px; 
+  gap: 10px;
+  border-radius: 8px;
+  background: #F8F08A;
+  border: none; 
+  cursor: pointer;
+
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: black;
+  line-height: 18.75px;
+}
